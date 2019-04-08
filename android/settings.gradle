@@ -1,0 +1,3 @@
+rootProject.name = 'instatutorial'
+
+include ':app'
